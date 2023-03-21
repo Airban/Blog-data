@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "title": "Trending",
+      "key": "trending"
+    },
+    {
+      "title": "Marketing",
+      "key": "marketing"
+    },
+    {
+      "title": "Sales",
+      "key": "sales"
+    },
+    {
+      "title": "Growth",
+      "key": "growth"
+    },
+    {
+      "title": "Customer Service",
+      "key": "customer_service"
+    },
+    {
+      "title": "Business Development",
+      "key": "business_development"
+    }
+  ]
+}
