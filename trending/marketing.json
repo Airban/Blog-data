@@ -1,0 +1,31 @@
+{
+  "blog_posts": [
+    {
+      "title": "5 Social Media Trends to Watch in 2022",
+      "author": "Sarah Johnson",
+      "date": "2022-01-15",
+      "category": "Marketing",
+      "subcategory": "Social Media",
+      "content": "As social media continues to evolve, businesses need to stay on top of the latest trends to reach their target audience. In this article, we'll explore 5 social media trends to watch in 2022 that can help you stay ahead of the competition.",
+      "minute_read": 4
+    },
+    {
+      "title": "The Rise of Influencer Marketing: What You Need to Know",
+      "author": "Mike Lee",
+      "date": "2022-02-25",
+      "category": "Marketing",
+      "subcategory": "Influencer Marketing",
+      "content": "Influencer marketing has become a popular way for businesses to reach their target audience. In this article, we'll explore the rise of influencer marketing and what you need to know to create a successful campaign.",
+      "minute_read": 6
+    },
+    {
+      "title": "Why Personalization is Key to Email Marketing Success",
+      "author": "Emily Chen",
+      "date": "2022-03-20",
+      "category": "Marketing",
+      "subcategory": "Email Marketing",
+      "content": "Personalization has become an essential component of email marketing success. In this article, we'll explore why personalization is so important and provide some tips for creating personalized email campaigns.",
+      "minute_read": 3
+    }
+  ]
+}
