@@ -7,7 +7,8 @@
       "category": "Marketing",
       "subcategory": "Social Media",
       "content": "As social media continues to evolve, businesses need to stay on top of the latest trends to reach their target audience. In this article, we'll explore 5 social media trends to watch in 2022 that can help you stay ahead of the competition.",
-      "minute_read": 4
+      "minute_read": 4,
+      "image_link": "http://localhost:4200/assets/images/assets/insights-img2.png"
     },
     {
       "title": "The Rise of Influencer Marketing: What You Need to Know",
@@ -16,7 +17,8 @@
       "category": "Marketing",
       "subcategory": "Influencer Marketing",
       "content": "Influencer marketing has become a popular way for businesses to reach their target audience. In this article, we'll explore the rise of influencer marketing and what you need to know to create a successful campaign.",
-      "minute_read": 6
+      "minute_read": 6,
+      "image_link": "http://localhost:4200/assets/images/assets/insights-img5.png"
     },
     {
       "title": "Why Personalization is Key to Email Marketing Success",
@@ -25,7 +27,8 @@
       "category": "Marketing",
       "subcategory": "Email Marketing",
       "content": "Personalization has become an essential component of email marketing success. In this article, we'll explore why personalization is so important and provide some tips for creating personalized email campaigns.",
-      "minute_read": 3
+      "minute_read": 3,
+      "image_link": "http://localhost:4200/assets/images/assets/insights-img3.png"
     }
   ]
 }
