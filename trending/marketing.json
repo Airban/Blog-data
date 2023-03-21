@@ -29,6 +29,26 @@
       "content": "Personalization has become an essential component of email marketing success. In this article, we'll explore why personalization is so important and provide some tips for creating personalized email campaigns.",
       "minute_read": 3,
       "image_link": "http://localhost:4200/assets/images/assets/insights-img3.png"
+    },
+    {
+      "title": "The Art of Creating a Killer Brand Identity",
+      "author": "Sophia Lee",
+      "date": "2022-01-12",
+      "category": "Marketing",
+      "subcategory": "Brand Identity",
+      "content": "Creating a strong brand identity is essential for any business looking to stand out in today's crowded market. In this article, we'll explore the art of creating a killer brand identity that will help you connect with your target audience and build brand loyalty.",
+      "minute_read": 7,
+      "image_link": "http://localhost:4200/assets/images/assets/insights-img1.png"
+    },
+    {
+      "title": "The Importance of Customer Feedback for Your Business",
+      "author": "David Chen",
+      "date": "2022-03-01",
+      "category": "Marketing",
+      "subcategory": "Customer Feedback",
+      "content": "Customer feedback can be a valuable tool for improving your business and building stronger relationships with your customers. In this article, we'll explore the importance of customer feedback and provide some tips for collecting and using feedback effectively.",
+      "minute_read": 5,
+      "image_link": "http://localhost:4200/assets/images/assets/insights-img8.png"
     }
   ]
 }
